@@ -51,7 +51,7 @@ local data = {
     {"Name a god from greek mythology", "Harpocrates"},
     {"Name something you wear on your feet", "Runningshoes"},
     {"Name a character from cars", "Dinocotransporthelicopter"},
-    {"Name a skittles color", "Brightyellow"},
+    {"Name a skittle color", "Brightyellow"},
     {"Name an animal", "Rubythroatedhummingbird"},
     {"Name a musical instrument", "Electricguitar"},
     {"Name a disney movie", "the chronicles of narnia the lion the witch and the wardrobe"},
