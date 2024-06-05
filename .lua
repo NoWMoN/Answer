@@ -163,3 +163,5 @@ local data = {
     {"Name a superhero", "the incredible hulk"},
     {"Name a currency", "united states dollar"}
 }
+
+return data
