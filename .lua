@@ -153,7 +153,7 @@ local data = {
     {"Name a country involved in wwi", "united arab emirates (UAE)"},
     {"Name a character from diary of a wimpy kid", "rowley jefferson"},
     {"Name a programming language", "euslisp robot programming language"},
-    {"Name an m&m color", "yellow / orange / purple"},
+    {"Name an m&m color", "yellow"},
     {"Name something you would do in the snow", "go snowboarding"},
     {"Name a popular christmas song", "what can you get a wookiee for christmas when he already owns a comb"},
     {"Name a type of candy", "bertie botts every flavour beans"},
@@ -161,7 +161,8 @@ local data = {
     {"Name a popular swimming stroke", "breast stroke"},
     {"Name a popular breakfast cereal", "fruit fibre dates walnuts and oats"},
     {"Name a superhero", "the incredible hulk"},
-    {"Name a currency", "united states dollar"}
+    {"Name a currency", "united states dollar"},
+    {"Name something you would find in a classroom", "Graphing calculator"}
 }
 
 return data
