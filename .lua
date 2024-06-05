@@ -35,7 +35,7 @@ local data = {
     {"Name a character from phineas and ferb", "doctor heinz doofenshmirtz"},
     {"Name an ethnicity", "Pacificislander"},
     {"Name an outdoor activity that is not a sport", "Mountainclimbing"},
-    {"Name something in a cave", "Caveanimals"},
+    {"Name something you would see in a cave", "Caveanimals"},
     {"Name a block in minecraft", "cracked polished black stone bricks"},
     {"Name something you keep in the car", "Driverslicense"},
     {"Name a sport", "Americanfootball"},
