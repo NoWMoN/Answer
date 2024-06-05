@@ -3,7 +3,7 @@ local data = {
     {"Name a popular soda", "Monster energy drink"},
     {"Name a sport that uses a ball", "American football"},
     {"Name something you would bring to the beach", "Tanning lotion"},
-    {"Name something you would find in a pencil case", "Graphing calculator"},
+    {"Name something you would find in a pencil case:", "Graphing calculator"},
     {"Name something on a hamburger", "American cheese"},
     {"Name a member of the Scooby Doo gang", "Norville Rogers"},
     {"Name a billionare", "Francoise Bettencourt Meyers"},
