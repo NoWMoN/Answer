@@ -57,7 +57,7 @@ local data = {
     {"Name a disney movie", "the chronicles of narnia the lion the witch and the wardrobe"},
     {"Name a popular breakfast food", "Frenchtoaststicks"},
     {"Name something you would see on the road", "Emergencyresponsevehicles"},
-    {"Name a character from sonic The hedgehog", "Knucklestheechidna"},
+    {"Name a character from sonic the hedgehog", "Knucklestheechidna"},
     {"Name something you would see at a playground", "Drinkingfountain"},
     {"Name a month in the year", "September"},
     {"Name something you would sit on", "Foldablechairs"},
