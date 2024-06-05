@@ -14,7 +14,7 @@ local data = {
     {"Name something you would keep in the freezer", "Icecreamsandwiches"},
     {"Name a natural disaster", "Volcaniceruption"},
     {"Name a type of candy", "Bertiebottseveryflavourbeans"},
-    {"Name something that is cold", "Chocolateicecream"},
+    {"Name a thing that is cold", "Chocolateicecream"},
     {"Name a school subject", "Differentialeuations"},
     {"Name something you would see in the ocean", "Continentalfaultlines"},
     {"Name a place you can swim", "Publicswimmingpool"},
