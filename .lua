@@ -60,7 +60,7 @@ local data = {
     {"Name a character from sonic The hedgehog", "Knucklestheechidna"},
     {"Name something you would see at a playground", "Drinkingfountain"},
     {"Name a month in the year", "September"},
-    {"Name something you sit on", "Foldablechairs"},
+    {"Name something you would sit on", "Foldablechairs"},
     {"Name something you would bring on a camping trip", "Grahamcrackes"},
     {"Name something sharp", "Samuraisword"},
     {"Name a type of cake", "Strawberryshortcake"},
